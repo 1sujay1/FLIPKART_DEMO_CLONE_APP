@@ -82,6 +82,32 @@ Full-Stack Flipkart with Admin Dashboard & Paytm, RazorPay and Stripe Payment Ga
 - Review Management: 📜 Admins can view and delete product reviews.
 - Stock Management: 📉 Product stock is automatically decreased upon shipment.
 
+## User and Admin Dashboard Snapshots :
+
+![Screenshot (8)](https://github.com/1sujay1/FLIPKART_DEMO_CLONE_APP/assets/70701029/5c1fbd06-02ef-4732-90bb-7dd65ecc3165)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/1sujay1/FLIPKART_DEMO_CLONE_APP/assets/70701029/7378a8e9-37a4-457c-85dc-d744e1967dea" alt="dashboard1" /></td>
+    <td><img src="https://github.com/1sujay1/FLIPKART_DEMO_CLONE_APP/assets/70701029/f538ea02-8d8f-432d-8bde-c3359fb9ad50" alt="dashboard2" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/1sujay1/FLIPKART_DEMO_CLONE_APP/assets/70701029/82787d87-6a92-42db-90d1-b709e60ac4bf" alt="dashboard3" /></td>
+    <td><img src="https://github.com/1sujay1/FLIPKART_DEMO_CLONE_APP/assets/70701029/bb828024-1a2b-4829-9501-949c0971a230" alt="dashboard4" /></td>
+  </tr>
+</table>
+
+![Screenshot (14)](https://github.com/1sujay1/FLIPKART_DEMO_CLONE_APP/assets/70701029/f8efc7ae-ef50-45ce-8629-3b4182483c38)
+
+
+<table>
+  <tr>
+    <td><img src="https://github.com/1sujay1/FLIPKART_DEMO_CLONE_APP/assets/70701029/ab844cd2-1bfa-4cb1-a574-760abd05f99c" alt="dashboard3" /></td>
+    <td><img src="https://github.com/1sujay1/FLIPKART_DEMO_CLONE_APP/assets/70701029/f7032193-275f-4271-af07-ea579694bf0c" alt="dashboard4" /></td>
+  </tr>
+</table>
+
+
 <h2>📬 Contact</h2>
 
 Feel free to reach me through the below handles if you'd like to contact me.
