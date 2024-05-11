@@ -18,11 +18,13 @@ import FormControlLabel from '@mui/material/FormControlLabel';
 import Radio from '@mui/material/Radio';
 import RadioGroup from '@mui/material/RadioGroup';
 import MetaData from '../Layouts/MetaData';
+import { Link } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 
 const Payment = () => {
 
     const dispatch = useDispatch();
-    // const navigate = useNavigate();
+    const navigate = useNavigate();
     const { enqueueSnackbar } = useSnackbar();
     // const stripe = useStripe();
     // const elements = useElements();
@@ -164,6 +166,8 @@ const Payment = () => {
                                     </FormControl>
 
                                     <input type="submit" value={`Pay ₹${totalPrice.toLocaleString()}`} disabled={payDisable ? true : false} className={`${payDisable ? "bg-primary-grey cursor-not-allowed" : "bg-primary-orange cursor-pointer"} w-1/2 sm:w-1/4 my-2 py-3 font-medium text-white shadow hover:shadow-lg rounded-sm uppercase outline-none`} />
+                                    
+                                    <button onClick={()=>navigate('/orders/success')}>SKIP</button>
 
                                 </form>
 
